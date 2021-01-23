@@ -12,3 +12,6 @@ Any commits signed before this date will suddenly become `Unverified`.
 This repository will be removed some time this summer.
 
 The previous message has been signed with my currently active GPG key.
+
+This message has been signed with Github's GPG key.
+I will indeed stop signing my commits halfway through February.
