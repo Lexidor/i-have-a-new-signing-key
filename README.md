@@ -20,3 +20,7 @@ I will indeed stop signing my commits halfway through February.
 
 My keys are about to expire.
 I do not intend to keep signing my commits past the expiration date.
+
+### Signing with github's key
+
+I will indeed stop signing my commits in a couple of days.
