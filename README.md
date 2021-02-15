@@ -15,3 +15,8 @@ The previous message has been signed with my currently active GPG key.
 
 This message has been signed with Github's GPG key.
 I will indeed stop signing my commits halfway through February.
+
+### Reaffirming that the above statement was made by me
+
+My keys are about to expire.
+I do not intend to keep signing my commits past the expiration date.
